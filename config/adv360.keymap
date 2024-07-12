@@ -78,7 +78,7 @@
             >;
         };
 
-        layer_Layer__4 {
+        layer_gayme {
             bindings = <
  &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                     &trans  &trans  &trans  &trans  &trans  &trans  &trans
  &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                     &trans  &trans  &trans  &trans  &trans  &trans  &trans
