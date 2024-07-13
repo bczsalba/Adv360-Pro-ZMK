@@ -36,8 +36,8 @@
         "&none",        "&none",        "&none",        "&none",        "&none",                                 "&none",  "&none",  "&none",                          "&none", "&bl BL_TOG",        "&rgb_ug RGB_TOG",           "&bl BL_INC", "&bl BL_DEC",  "&none",  "&none",  "&none"
     ], [
           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",              "&trans",                                                                   "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-          "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",               "&to 0",                                                                   "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-          "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",              "&trans",       "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+          "&trans", "&trans", "&trans",  "&kp W", "&trans", "&trans",               "&to 0",                                                                   "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+          "&trans", "&trans",  "&kp A",  "&kp S",  "&kp D", "&trans",              "&trans",       "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",                                        "&trans",                     "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
        "&kp LCTRL", "&trans", "&trans", "&trans", "&trans",                     "&kp SPACE", "&kp LEFT_ALT", "&trans",                     "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans"
     ]
