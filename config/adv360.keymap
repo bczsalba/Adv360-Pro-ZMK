@@ -80,11 +80,11 @@
 
         layer__1_gayme {
             bindings = <
- &trans  &trans  &trans  &trans  &trans  &trans               &trans                                                        &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans   &kp Q   &kp W   &kp E   &kp R                &to 0                                                        &trans  &trans  &trans  &trans  &trans  &trans  &trans
-  &none  &trans   &kp A   &kp S   &kp D  &trans               &trans        &trans  &trans                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans                                     &trans                  &trans                  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans                    &kp SPACE  &kp LEFT_ALT  &trans                  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
+ &kp ESC  &trans  &trans  &trans  &trans  &trans               &trans                                                        &trans  &trans  &trans  &trans  &trans  &trans  &trans
+  &trans  &trans   &kp Q   &kp W   &kp E   &kp R                &to 0                                                        &trans  &trans  &trans  &trans  &trans  &trans  &trans
+   &none  &trans   &kp A   &kp S   &kp D   &kp F               &trans        &trans  &trans                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+  &trans  &trans  &trans  &trans  &trans   &kp G                                     &trans                  &trans                  &trans  &trans  &trans  &trans  &trans  &trans
+  &trans  &trans  &trans  &trans  &trans                    &kp SPACE  &kp LEFT_ALT  &trans                  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
             >;
         };
 
