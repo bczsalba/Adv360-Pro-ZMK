@@ -61,7 +61,7 @@
         layer_fn {
             bindings = <
  &kp C_VOLUME_UP  &kp F1  &kp F2  &kp F3  &kp F4  &kp F5            &tog 1                                                   &mo 3  &kp F6  &kp F7  &kp F8  &kp F9  &kp F10  &kp C_VOLUME_DOWN
-          &trans  &trans  &trans  &trans  &trans  &trans             &none                                                   &none  &trans  &trans  &trans  &trans   &trans             &trans
+          &trans  &trans  &trans  &trans  &trans  &trans            &tog 4                                                   &none  &trans  &trans  &trans  &trans   &trans             &trans
           &trans  &trans  &trans  &trans  &trans  &trans             &none  &trans  &trans                  &trans  &trans   &none  &trans  &trans  &trans  &trans   &trans             &trans
           &trans  &trans  &trans  &trans  &trans  &trans                            &trans                  &trans                  &trans  &trans  &trans  &trans   &trans             &trans
           &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans          &trans  &trans  &trans   &trans             &trans
@@ -81,7 +81,7 @@
         layer__1_gayme {
             bindings = <
  &kp ESC  &trans  &trans  &trans  &trans  &trans               &trans                                                        &trans  &trans  &trans  &trans  &trans  &trans  &trans
-  &trans  &trans   &kp Q   &kp W   &kp E   &kp R                &to 0                                                        &trans  &trans  &trans  &trans  &trans  &trans  &trans
+  &trans  &trans   &kp Q   &kp W   &kp E   &kp R                &mo 0                                                        &trans  &trans  &trans  &trans  &trans  &trans  &trans
    &none  &trans   &kp A   &kp S   &kp D   &kp F               &trans        &trans  &trans                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
   &trans  &trans  &trans  &trans  &trans   &kp G                                     &trans                  &trans                  &trans  &trans  &trans  &trans  &trans  &trans
   &trans  &trans  &trans  &trans  &trans                    &kp SPACE  &kp LEFT_ALT  &trans                  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
